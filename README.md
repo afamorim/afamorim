@@ -23,5 +23,5 @@ I am a fullstack software engineer
 <br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Will write the security module again? Oh no, oh no, oh no no no… (Part 1)](https://afamorim.medium.com/will-write-the-security-module-again-oh-no-oh-no-oh-no-no-no-part-1-788c490845d0?source=rss-6b2b3500d2ce------2)
 <!-- BLOG-POST-LIST:END -->
