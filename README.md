@@ -2,6 +2,7 @@
 I am a fullstack software engineer
 - 🔭 Working on multiple frontend and backend project using Java, Node, React and Angular
 - 🌱 Learning design patterns in depth
+- ☁️ Cloud engineer
 <br>
 ## Connect with me <br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/antonio-amorim-6185a92)<br>
