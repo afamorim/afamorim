@@ -22,6 +22,12 @@ I am a fullstack software engineer
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=red" />
 <br>
 <br>
+
+[![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afamorim&show_icons=true)](https://github.com/afamorim)
+
+<br>
+<br>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Will write the security module again? Oh no, oh no, oh no no no… (Part 1)](https://afamorim.medium.com/will-write-the-security-module-again-oh-no-oh-no-oh-no-no-no-part-1-788c490845d0?source=rss-6b2b3500d2ce------2)
